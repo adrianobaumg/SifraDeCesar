@@ -10,27 +10,3 @@ O programa realiza as seguintes operações:
 2. **Entrada da Frase**: O usuário insere uma frase que será criptografada.
 3. **Conversão para Maiúsculas**: Todos os caracteres da frase são convertidos para maiúsculas.
 4. **Criptografia da Frase**: Cada caractere da frase é ajustado com base no nível de criptografia fornecido. O ajuste faz com que os caracteres sejam movidos para frente no alfabeto.
-
-## Compilação e Execução
-
-Para compilar e executar o programa, siga os passos abaixo:
-
-1. **Clone o repositório**:
-    ```bash
-    git clone https://github.com/seu_usuario/seu_repositorio.git
-    ```
-
-2. **Navegue até o diretório do projeto**:
-    ```bash
-    cd seu_repositorio
-    ```
-
-3. **Compile o código**:
-    ```bash
-    gcc -o criptografia criptografia.c
-    ```
-
-4. **Execute o programa**:
-    ```bash
-    ./criptografia
-    ```
